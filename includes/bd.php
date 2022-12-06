@@ -3,9 +3,9 @@
     require_once 'includes/Medoo.php';
     $database= new Medoo([
         'type' => 'mysql',
-        'host' => 'localhost',
+        'host' => 'db4free.net:3306',
         'database' => 'usuarios_medoo',
-        'username' => 'root',
-        'password' => 'root'
+        'username' => 'diluis_05',
+        'password' => 'ro0T_4321_dm'
       ]);
 ?>
